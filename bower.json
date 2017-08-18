@@ -1,6 +1,6 @@
 {
   "name": "angular.panels",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pure AngularJS based SidePanels (no jQuery)",
   "main": [
     "./dist/angular.panels.min.js",
